@@ -20,7 +20,7 @@ Un outil interactif pour déterminer les zones UTM et codes EPSG à partir de n'
 ## 🚀 Utilisation
 
 ### En ligne
-Visitez : [Votre URL GitHub Pages ici après déploiement]
+Visitez : https://aplumacker.github.io/utm-zone-selector/
 
 ### En local
 1. Téléchargez le fichier `index.html`
